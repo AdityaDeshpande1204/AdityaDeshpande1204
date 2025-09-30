@@ -81,15 +81,17 @@
 
 <hr style="border:0; height:2px; background: linear-gradient(to right, #00BFFF, #6A5ACD); margin:20px 0;">
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 <p align="center">
-  <a href="https://github.com/AdityaDeshpande1204/PROJECT1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaDeshpande1204&repo=PROJECT1&theme=radical" />
+  <!-- Project 1 -->
+  <a href="https://github.com/AdityaDeshpande1204/IMDb-Dataset-EDA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaDeshpande1204&repo=IMDb-Dataset-EDA&theme=radical" />
   </a>
-  <a href="https://github.com/AdityaDeshpande1204/PROJECT2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaDeshpande1204&repo=PROJECT2&theme=radical" />
+
+  <!-- Project 2 -->
+  <a href="https://github.com/AdityaDeshpande1204/Sales-Analysis-Python">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaDeshpande1204&repo=Sales-Analysis-Python&theme=radical" />
   </a>
-</p>
 
 <hr style="border:0; height:2px; background: linear-gradient(to right, #00BFFF, #6A5ACD); margin:20px 0;">
 
