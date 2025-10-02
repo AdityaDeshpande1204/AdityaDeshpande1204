@@ -90,7 +90,7 @@
 
   <!-- Project 2 -->
   <a href="https://github.com/AdityaDeshpande1204/Sales-Analysis-Python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaDeshpande1204&repo=Sales-Analysis-Python&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaDeshpande1204&repo=Flight-Price-EDA-FE&theme=radical" />
   </a>
 
 <hr style="border:0; height:2px; background: linear-gradient(to right, #00BFFF, #6A5ACD); margin:20px 0;">
