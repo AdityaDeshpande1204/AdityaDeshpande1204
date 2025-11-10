@@ -89,8 +89,8 @@
   </a>
 
   <!-- Project 2 -->
-  <a href="https://github.com/AdityaDeshpande1204/ElectroHub-Sales-Data-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaDeshpande1204&repo=ElectroHub-Sales-Data-Analysis&theme=radical" />
+  <a href="https://github.com/AdityaDeshpande1204/Insurance-Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdityaDeshpande1204&repo=Insurance-Data-Analysis&theme=radical" />
   </a>
 
 <hr style="border:0; height:2px; background: linear-gradient(to right, #00BFFF, #6A5ACD); margin:20px 0;">
